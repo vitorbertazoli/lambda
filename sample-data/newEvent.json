@@ -1,0 +1,1585 @@
+{
+    "operation": "create",
+    "type": "content",
+    "payload": {
+        "full_post": {
+            "id": "5bfc336a850cda00760000cb",
+            "slug": "936609668",
+            "title": "(no title)",
+            "creator_id": "5b845029930686004f000051",
+            "assignee_id": "5b845029930686004f000051",
+            "campaign_ids": [
+            ],
+            "preferred_title": "(no title)",
+            "next_task": "Outline Creation",
+            "state": "production",
+            "archived": false,
+            "updated_at": "2018-11-26T17:54:51Z",
+            "factory_url": "https://kapost.com/posts/936609668",
+            "content_type": {
+                "background_color": "rgb(59, 89, 152)",
+                "body_type": "any_file",
+                "display_name": "Web Page",
+                "field_name": "web_page",
+                "icon": "slideshow-monitor",
+                "icon_css_class": "slideshow-monitor",
+                "id": "5b89ab51bc3dd20004000bf0",
+                "newsroom_id": "5b89ab4e1fd63f0004001507",
+                "updated_at": "2018-10-26T21:44:41Z"
+            },
+            "progress_stage": "planned",
+            "published_date": null,
+            "content": "",
+            "tags": [
+            ],
+            "custom_fields": [
+                {
+                    "id": "5b89ab4e1fd63f00040014f3",
+                    "field_type": "text",
+                    "display_label": "Draft Content - Google Doc URL",
+                    "name": "draft_content_google_doc_url",
+                    "default_value": null,
+                    "created_at": "2017-10-26T21:43:54Z",
+                    "select_value_ids": {
+                    },
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "html": true,
+                        "multiline": false,
+                        "show_character_count": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014f4",
+                    "field_type": "text",
+                    "display_label": "Draft Design Image/PDF - Google Doc URL",
+                    "name": "draft_design_image_pdf_google_drive_url",
+                    "default_value": null,
+                    "created_at": "2017-10-26T21:47:08Z",
+                    "select_value_ids": {
+                    },
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "html": true,
+                        "multiline": false,
+                        "show_character_count": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014f5",
+                    "field_type": "text",
+                    "display_label": "Final Asset Meta-landing-index Copy - Google Doc URL",
+                    "name": "final_asset_metalandingindex_copy_google_doc_url",
+                    "default_value": null,
+                    "created_at": "2017-10-26T21:47:41Z",
+                    "select_value_ids": {
+                    },
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "html": true,
+                        "multiline": false,
+                        "show_character_count": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014f6",
+                    "field_type": "text",
+                    "display_label": "Final Asset Staged DataStax.com URL",
+                    "name": "final_asset_staged_datastaxcom_url",
+                    "default_value": null,
+                    "created_at": "2017-10-26T21:48:18Z",
+                    "select_value_ids": {
+                    },
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "html": true,
+                        "multiline": false,
+                        "show_character_count": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e2",
+                    "field_type": "multiselect",
+                    "display_label": "Industry / Vertical",
+                    "name": "industry_vertical",
+                    "created_at": "2017-07-26T21:35:52Z",
+                    "select_values": [
+                        "Aerospace and Defense",
+                        "Automotive",
+                        "Banks",
+                        "Chemicals",
+                        "Civic, Non-Profit, Membership Organizations",
+                        "Computer Hardware",
+                        "Computer Software",
+                        "Construction and Building Materials",
+                        "Consumer Products",
+                        "Consumer Services",
+                        "Corporate Services",
+                        "Crops and Agriculture Production",
+                        "Electronics",
+                        "Energy and Environmental",
+                        "Financial Services",
+                        "Food and Beverage",
+                        "Gaming",
+                        "Genealogy",
+                        "Government",
+                        "Holding Companies",
+                        "Hospitals and Healthcare",
+                        "Industrial Manufacturing and Services",
+                        "Insurance",
+                        "Leisure, Sports and Recreation",
+                        "Media",
+                        "Mining and Metals",
+                        "Pharmaceuticals and Biotech",
+                        "Publishing",
+                        "Real Estate Services",
+                        "Retail",
+                        "Schools and Education",
+                        "Technology",
+                        "Telecommunications",
+                        "Transportation",
+                        "Utility",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "597b92919e5ee7006c000309": "Aerospace and Defense",
+                        "597b92919e5ee7006c00030a": "Automotive",
+                        "597b92919e5ee7006c00030b": "Banks",
+                        "597b92919e5ee7006c00030c": "Chemicals",
+                        "597b92919e5ee7006c00030d": "Civic, Non-Profit, Membership Organizations",
+                        "597b92919e5ee7006c00030e": "Computer Hardware",
+                        "597b92919e5ee7006c00030f": "Computer Software",
+                        "597b92919e5ee7006c000310": "Construction and Building Materials",
+                        "597b92919e5ee7006c000311": "Consumer Products",
+                        "597b92919e5ee7006c000312": "Consumer Services",
+                        "597b92919e5ee7006c000313": "Corporate Services",
+                        "597b92919e5ee7006c000314": "Crops and Agriculture Production",
+                        "597b92919e5ee7006c000315": "Electronics",
+                        "597b92919e5ee7006c000316": "Energy and Environmental",
+                        "597b92919e5ee7006c000317": "Financial Services",
+                        "597b92919e5ee7006c000318": "Food and Beverage",
+                        "597b92919e5ee7006c000319": "Gaming",
+                        "59b9c771eb633a008b000290": "Genealogy",
+                        "597b92919e5ee7006c00031a": "Government",
+                        "597b92919e5ee7006c00031b": "Holding Companies",
+                        "597b92919e5ee7006c00031c": "Hospitals and Healthcare",
+                        "597b92919e5ee7006c00031d": "Industrial Manufacturing and Services",
+                        "597b92919e5ee7006c00031e": "Insurance",
+                        "597b92919e5ee7006c00031f": "Leisure, Sports and Recreation",
+                        "597b92919e5ee7006c000320": "Media",
+                        "597b92919e5ee7006c000321": "Mining and Metals",
+                        "597b92919e5ee7006c000322": "Pharmaceuticals and Biotech",
+                        "59b9c771eb633a008b000291": "Publishing",
+                        "597b92919e5ee7006c000323": "Real Estate Services",
+                        "597b92919e5ee7006c000324": "Retail",
+                        "597b92919e5ee7006c000325": "Schools and Education",
+                        "59b9c771eb633a008b000292": "Technology",
+                        "597b92919e5ee7006c000326": "Telecommunications",
+                        "597b92919e5ee7006c000327": "Transportation",
+                        "59b9c771eb633a008b000293": "Utility",
+                        "598e0e1355560300a8000096": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "597b92919e5ee7006c000309",
+                            "display": "Aerospace and Defense",
+                            "value": "Aerospace and Defense"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030a",
+                            "display": "Automotive",
+                            "value": "Automotive"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030b",
+                            "display": "Banks",
+                            "value": "Banks"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030c",
+                            "display": "Chemicals",
+                            "value": "Chemicals"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030d",
+                            "display": "Civic, Non-Profit, Membership Organizations",
+                            "value": "Civic, Non-Profit, Membership Organizations"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030e",
+                            "display": "Computer Hardware",
+                            "value": "Computer Hardware"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00030f",
+                            "display": "Computer Software",
+                            "value": "Computer Software"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000310",
+                            "display": "Construction and Building Materials",
+                            "value": "Construction and Building Materials"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000311",
+                            "display": "Consumer Products",
+                            "value": "Consumer Products"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000312",
+                            "display": "Consumer Services",
+                            "value": "Consumer Services"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000313",
+                            "display": "Corporate Services",
+                            "value": "Corporate Services"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000314",
+                            "display": "Crops and Agriculture Production",
+                            "value": "Crops and Agriculture Production"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000315",
+                            "display": "Electronics",
+                            "value": "Electronics"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000316",
+                            "display": "Energy and Environmental",
+                            "value": "Energy and Environmental"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000317",
+                            "display": "Financial Services",
+                            "value": "Financial Services"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000318",
+                            "display": "Food and Beverage",
+                            "value": "Food and Beverage"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000319",
+                            "display": "Gaming",
+                            "value": "Gaming"
+                        },
+                        {
+                            "id": "59b9c771eb633a008b000290",
+                            "display": "Genealogy",
+                            "value": "Genealogy"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031a",
+                            "display": "Government",
+                            "value": "Government"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031b",
+                            "display": "Holding Companies",
+                            "value": "Holding Companies"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031c",
+                            "display": "Hospitals and Healthcare",
+                            "value": "Hospitals and Healthcare"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031d",
+                            "display": "Industrial Manufacturing and Services",
+                            "value": "Industrial Manufacturing and Services"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031e",
+                            "display": "Insurance",
+                            "value": "Insurance"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c00031f",
+                            "display": "Leisure, Sports and Recreation",
+                            "value": "Leisure, Sports and Recreation"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000320",
+                            "display": "Media",
+                            "value": "Media"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000321",
+                            "display": "Mining and Metals",
+                            "value": "Mining and Metals"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000322",
+                            "display": "Pharmaceuticals and Biotech",
+                            "value": "Pharmaceuticals and Biotech"
+                        },
+                        {
+                            "id": "59b9c771eb633a008b000291",
+                            "display": "Publishing",
+                            "value": "Publishing"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000323",
+                            "display": "Real Estate Services",
+                            "value": "Real Estate Services"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000324",
+                            "display": "Retail",
+                            "value": "Retail"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000325",
+                            "display": "Schools and Education",
+                            "value": "Schools and Education"
+                        },
+                        {
+                            "id": "59b9c771eb633a008b000292",
+                            "display": "Technology",
+                            "value": "Technology"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000326",
+                            "display": "Telecommunications",
+                            "value": "Telecommunications"
+                        },
+                        {
+                            "id": "597b92919e5ee7006c000327",
+                            "display": "Transportation",
+                            "value": "Transportation"
+                        },
+                        {
+                            "id": "59b9c771eb633a008b000293",
+                            "display": "Utility",
+                            "value": "Utility"
+                        },
+                        {
+                            "id": "598e0e1355560300a8000096",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e6",
+                    "field_type": "multiselect",
+                    "display_label": "Persona",
+                    "name": "persona",
+                    "created_at": "2017-07-26T21:42:22Z",
+                    "select_values": [
+                        "Benefactor",
+                        "Builder",
+                        "Designer",
+                        "Innovator",
+                        "Operator",
+                        "Partner",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "59790cbedde77e00080003b6": "Benefactor",
+                        "59790cbedde77e00080003b9": "Builder",
+                        "59790cbedde77e00080003b7": "Designer",
+                        "5af06ff5ca2afb00b300010d": "Innovator",
+                        "59790cbedde77e00080003b8": "Operator",
+                        "59790cbedde77e00080003ba": "Partner",
+                        "598e0e4b7bcc7400940000cb": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790cbedde77e00080003b6",
+                            "display": "Benefactor",
+                            "value": "Benefactor"
+                        },
+                        {
+                            "id": "59790cbedde77e00080003b9",
+                            "display": "Builder",
+                            "value": "Builder"
+                        },
+                        {
+                            "id": "59790cbedde77e00080003b7",
+                            "display": "Designer",
+                            "value": "Designer"
+                        },
+                        {
+                            "id": "5af06ff5ca2afb00b300010d",
+                            "display": "Innovator",
+                            "value": "Innovator"
+                        },
+                        {
+                            "id": "59790cbedde77e00080003b8",
+                            "display": "Operator",
+                            "value": "Operator"
+                        },
+                        {
+                            "id": "59790cbedde77e00080003ba",
+                            "display": "Partner",
+                            "value": "Partner"
+                        },
+                        {
+                            "id": "598e0e4b7bcc7400940000cb",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e7",
+                    "field_type": "multiselect",
+                    "display_label": "GTM Theme",
+                    "name": "gtm_theme",
+                    "created_at": "2017-07-26T21:42:57Z",
+                    "select_values": [
+                        "CX",
+                        "EO",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "59790ce1dde77e005800041a": "CX",
+                        "59790ce1dde77e005800041b": "EO",
+                        "598e0dfaea82f4008a000084": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790ce1dde77e005800041a",
+                            "display": "CX",
+                            "value": "CX"
+                        },
+                        {
+                            "id": "59790ce1dde77e005800041b",
+                            "display": "EO",
+                            "value": "EO"
+                        },
+                        {
+                            "id": "598e0dfaea82f4008a000084",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e9",
+                    "field_type": "select",
+                    "display_label": "Functional Owner",
+                    "name": "functional_owner",
+                    "created_at": "2017-07-26T21:46:40Z",
+                    "select_values": [
+                        "Product Marketing",
+                        "Customer Marketing",
+                        "PR",
+                        "AR",
+                        "Campaigns",
+                        "Comms",
+                        "Content Marketing",
+                        "Design",
+                        "Digital",
+                        "FM-NA",
+                        "FM-EMEA",
+                        "Partner Marketing",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "59790dc0255d1400b2000311": "Product Marketing",
+                        "59790dc0255d1400b2000312": "Customer Marketing",
+                        "59790dc0255d1400b2000313": "PR",
+                        "59790dc0255d1400b2000314": "AR",
+                        "59790dc0255d1400b2000315": "Campaigns",
+                        "59b953678b56be00bd000473": "Comms",
+                        "59b953678b56be00bd000474": "Content Marketing",
+                        "59b953678b56be00bd000475": "Design",
+                        "59790dc0255d1400b2000316": "Digital",
+                        "59790dc0255d1400b2000317": "FM-NA",
+                        "59790dc0255d1400b2000318": "FM-EMEA",
+                        "59790dc0255d1400b2000319": "Partner Marketing",
+                        "598e0de77bcc7400c600008d": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790dc0255d1400b2000311",
+                            "display": "Product Marketing",
+                            "value": "Product Marketing"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000312",
+                            "display": "Customer Marketing",
+                            "value": "Customer Marketing"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000313",
+                            "display": "PR",
+                            "value": "PR"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000314",
+                            "display": "AR",
+                            "value": "AR"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000315",
+                            "display": "Campaigns",
+                            "value": "Campaigns"
+                        },
+                        {
+                            "id": "59b953678b56be00bd000473",
+                            "display": "Comms",
+                            "value": "Comms"
+                        },
+                        {
+                            "id": "59b953678b56be00bd000474",
+                            "display": "Content Marketing",
+                            "value": "Content Marketing"
+                        },
+                        {
+                            "id": "59b953678b56be00bd000475",
+                            "display": "Design",
+                            "value": "Design"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000316",
+                            "display": "Digital",
+                            "value": "Digital"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000317",
+                            "display": "FM-NA",
+                            "value": "FM-NA"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000318",
+                            "display": "FM-EMEA",
+                            "value": "FM-EMEA"
+                        },
+                        {
+                            "id": "59790dc0255d1400b2000319",
+                            "display": "Partner Marketing",
+                            "value": "Partner Marketing"
+                        },
+                        {
+                            "id": "598e0de77bcc7400c600008d",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e8",
+                    "field_type": "multiselect",
+                    "display_label": "Use Cases",
+                    "name": "use_cases",
+                    "created_at": "2017-07-26T21:44:55Z",
+                    "select_values": [
+                        "EO-Asset Monitoring",
+                        "EO-Logistics",
+                        "EO-eCommerce",
+                        "CX-C360",
+                        "CX-Personalization \u0026 Recommendations",
+                        "CX-Loyalty Programs",
+                        "CX-Consumer Fraud Detection",
+                        "EO-Supply Chain",
+                        "EO-Inventory Management",
+                        "EO-Security \u0026 Compliance",
+                        "EO-Identity Management",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "5a29c0dcaa176a000b00019e": "EO-Asset Monitoring",
+                        "5a29c0dcaa176a000b00019f": "EO-Logistics",
+                        "5a29c0dcaa176a000b0001a0": "EO-eCommerce",
+                        "59790d57dde77e00b2000333": "CX-C360",
+                        "59790d57dde77e00b2000334": "CX-Personalization \u0026 Recommendations",
+                        "59790d57dde77e00b2000335": "CX-Loyalty Programs",
+                        "59790d57dde77e00b2000336": "CX-Consumer Fraud Detection",
+                        "59790d57dde77e00b2000338": "EO-Supply Chain",
+                        "59790d57dde77e00b2000339": "EO-Inventory Management",
+                        "59790d57dde77e00b200033a": "EO-Security \u0026 Compliance",
+                        "59790d57dde77e00b200033b": "EO-Identity Management",
+                        "598e0ea3be938300b20000f3": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "5a29c0dcaa176a000b00019e",
+                            "display": "EO-Asset Monitoring",
+                            "value": "EO-Asset Monitoring"
+                        },
+                        {
+                            "id": "5a29c0dcaa176a000b00019f",
+                            "display": "EO-Logistics",
+                            "value": "EO-Logistics"
+                        },
+                        {
+                            "id": "5a29c0dcaa176a000b0001a0",
+                            "display": "EO-eCommerce",
+                            "value": "EO-eCommerce"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000333",
+                            "display": "CX-C360",
+                            "value": "CX-C360"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000334",
+                            "display": "CX-Personalization \u0026 Recommendations",
+                            "value": "CX-Personalization \u0026 Recommendations"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000335",
+                            "display": "CX-Loyalty Programs",
+                            "value": "CX-Loyalty Programs"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000336",
+                            "display": "CX-Consumer Fraud Detection",
+                            "value": "CX-Consumer Fraud Detection"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000338",
+                            "display": "EO-Supply Chain",
+                            "value": "EO-Supply Chain"
+                        },
+                        {
+                            "id": "59790d57dde77e00b2000339",
+                            "display": "EO-Inventory Management",
+                            "value": "EO-Inventory Management"
+                        },
+                        {
+                            "id": "59790d57dde77e00b200033a",
+                            "display": "EO-Security \u0026 Compliance",
+                            "value": "EO-Security \u0026 Compliance"
+                        },
+                        {
+                            "id": "59790d57dde77e00b200033b",
+                            "display": "EO-Identity Management",
+                            "value": "EO-Identity Management"
+                        },
+                        {
+                            "id": "598e0ea3be938300b20000f3",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014ed",
+                    "field_type": "multiselect",
+                    "display_label": "Product",
+                    "name": "product",
+                    "created_at": "2017-07-26T22:02:09Z",
+                    "select_values": [
+                        "DSE",
+                        "Search",
+                        "Analytics",
+                        "OpsCenter",
+                        "Graph",
+                        "Studio",
+                        "Dev Tools",
+                        "DMC",
+                        "OSS Cassandra",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "597911619148700044000427": "DSE",
+                        "597911619148700044000428": "Search",
+                        "597911619148700044000429": "Analytics",
+                        "59791161914870004400042a": "OpsCenter",
+                        "59791161914870004400042b": "Graph",
+                        "59791161914870004400042c": "Studio",
+                        "59791161914870004400042d": "Dev Tools",
+                        "59791161914870004400042e": "DMC",
+                        "59791161914870004400042f": "OSS Cassandra",
+                        "598e0e5cbe9383009e000115": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "597911619148700044000427",
+                            "display": "DSE",
+                            "value": "DSE"
+                        },
+                        {
+                            "id": "597911619148700044000428",
+                            "display": "Search",
+                            "value": "Search"
+                        },
+                        {
+                            "id": "597911619148700044000429",
+                            "display": "Analytics",
+                            "value": "Analytics"
+                        },
+                        {
+                            "id": "59791161914870004400042a",
+                            "display": "OpsCenter",
+                            "value": "OpsCenter"
+                        },
+                        {
+                            "id": "59791161914870004400042b",
+                            "display": "Graph",
+                            "value": "Graph"
+                        },
+                        {
+                            "id": "59791161914870004400042c",
+                            "display": "Studio",
+                            "value": "Studio"
+                        },
+                        {
+                            "id": "59791161914870004400042d",
+                            "display": "Dev Tools",
+                            "value": "Dev Tools"
+                        },
+                        {
+                            "id": "59791161914870004400042e",
+                            "display": "DMC",
+                            "value": "DMC"
+                        },
+                        {
+                            "id": "59791161914870004400042f",
+                            "display": "OSS Cassandra",
+                            "value": "OSS Cassandra"
+                        },
+                        {
+                            "id": "598e0e5cbe9383009e000115",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014eb",
+                    "field_type": "multiselect",
+                    "display_label": "Sales Stage / Buyer's Journey Stage",
+                    "name": "buyer_journey_stage",
+                    "created_at": "2017-07-26T21:51:08Z",
+                    "select_values": [
+                        "Prospect - Prospect - Awareness",
+                        "S0 - Opportunity identified - Awareness",
+                        "S1 - Qualification - Consideration",
+                        "S2 - Solution design - Consideration",
+                        "S3 - Prove solution - Consideration",
+                        "S4 - Business proposal - Decision",
+                        "S5 - Negotiate - Decision",
+                        "S6 - Closed/Booked - Decision",
+                        "S7 - Expansion - Expansion",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "598cbaef60b8ce0044000116": "Prospect - Prospect - Awareness",
+                        "598cbaef60b8ce0044000117": "S0 - Opportunity identified - Awareness",
+                        "598cbaef60b8ce0044000118": "S1 - Qualification - Consideration",
+                        "598cbaef60b8ce0044000119": "S2 - Solution design - Consideration",
+                        "598cbaef60b8ce004400011a": "S3 - Prove solution - Consideration",
+                        "598cbaef60b8ce004400011b": "S4 - Business proposal - Decision",
+                        "598cbaef60b8ce004400011c": "S5 - Negotiate - Decision",
+                        "598cbaef60b8ce004400011d": "S6 - Closed/Booked - Decision",
+                        "598cbaef60b8ce004400011e": "S7 - Expansion - Expansion",
+                        "598e0e86ea82f4007600009f": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "598cbaef60b8ce0044000116",
+                            "display": "Prospect - Prospect - Awareness",
+                            "value": "Prospect - Prospect - Awareness"
+                        },
+                        {
+                            "id": "598cbaef60b8ce0044000117",
+                            "display": "S0 - Opportunity identified - Awareness",
+                            "value": "S0 - Opportunity identified - Awareness"
+                        },
+                        {
+                            "id": "598cbaef60b8ce0044000118",
+                            "display": "S1 - Qualification - Consideration",
+                            "value": "S1 - Qualification - Consideration"
+                        },
+                        {
+                            "id": "598cbaef60b8ce0044000119",
+                            "display": "S2 - Solution design - Consideration",
+                            "value": "S2 - Solution design - Consideration"
+                        },
+                        {
+                            "id": "598cbaef60b8ce004400011a",
+                            "display": "S3 - Prove solution - Consideration",
+                            "value": "S3 - Prove solution - Consideration"
+                        },
+                        {
+                            "id": "598cbaef60b8ce004400011b",
+                            "display": "S4 - Business proposal - Decision",
+                            "value": "S4 - Business proposal - Decision"
+                        },
+                        {
+                            "id": "598cbaef60b8ce004400011c",
+                            "display": "S5 - Negotiate - Decision",
+                            "value": "S5 - Negotiate - Decision"
+                        },
+                        {
+                            "id": "598cbaef60b8ce004400011d",
+                            "display": "S6 - Closed/Booked - Decision",
+                            "value": "S6 - Closed/Booked - Decision"
+                        },
+                        {
+                            "id": "598cbaef60b8ce004400011e",
+                            "display": "S7 - Expansion - Expansion",
+                            "value": "S7 - Expansion - Expansion"
+                        },
+                        {
+                            "id": "598e0e86ea82f4007600009f",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": "Sales stage - Description - Buyer’s journey",
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014ee",
+                    "field_type": "multiselect",
+                    "display_label": "Technologies",
+                    "name": "technologies",
+                    "created_at": "2017-07-26T22:03:05Z",
+                    "select_values": [
+                        "Mesosphere",
+                        "Kafka",
+                        "AWS",
+                        "SAP HANA",
+                        "Azure",
+                        "GCP",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "597911990ae394001c000452": "Mesosphere",
+                        "597911990ae394001c000453": "Kafka",
+                        "597911990ae394001c000454": "AWS",
+                        "597911990ae394001c000455": "SAP HANA",
+                        "597911990ae394001c000456": "Azure",
+                        "597911990ae394001c000457": "GCP",
+                        "598e0e92ea82f400440000d8": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "597911990ae394001c000452",
+                            "display": "Mesosphere",
+                            "value": "Mesosphere"
+                        },
+                        {
+                            "id": "597911990ae394001c000453",
+                            "display": "Kafka",
+                            "value": "Kafka"
+                        },
+                        {
+                            "id": "597911990ae394001c000454",
+                            "display": "AWS",
+                            "value": "AWS"
+                        },
+                        {
+                            "id": "597911990ae394001c000455",
+                            "display": "SAP HANA",
+                            "value": "SAP HANA"
+                        },
+                        {
+                            "id": "597911990ae394001c000456",
+                            "display": "Azure",
+                            "value": "Azure"
+                        },
+                        {
+                            "id": "597911990ae394001c000457",
+                            "display": "GCP",
+                            "value": "GCP"
+                        },
+                        {
+                            "id": "598e0e92ea82f400440000d8",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e5",
+                    "field_type": "select",
+                    "display_label": "Language",
+                    "name": "language",
+                    "created_at": "2017-07-26T21:41:37Z",
+                    "select_values": [
+                        "English",
+                        "French",
+                        "German",
+                        "Japanese"
+                    ],
+                    "select_value_ids": {
+                        "59790c919148700058000350": "English",
+                        "59b6f92122072000bd00047c": "French",
+                        "59790c91914870005800034f": "German",
+                        "59790c919148700058000351": "Japanese"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790c919148700058000350",
+                            "display": "English",
+                            "value": "English"
+                        },
+                        {
+                            "id": "59b6f92122072000bd00047c",
+                            "display": "French",
+                            "value": "French"
+                        },
+                        {
+                            "id": "59790c91914870005800034f",
+                            "display": "German",
+                            "value": "German"
+                        },
+                        {
+                            "id": "59790c919148700058000351",
+                            "display": "Japanese",
+                            "value": "Japanese"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e4",
+                    "field_type": "select",
+                    "display_label": "Partner",
+                    "name": "partner",
+                    "created_at": "2017-07-26T21:40:18Z",
+                    "select_values": [
+                        "Capgemini",
+                        "Deloitte",
+                        "Expero",
+                        "Microsoft",
+                        "Oracle",
+                        "Perficient",
+                        "Pivotal",
+                        "West Monroe Partners",
+                        "All Partners",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "5a1c3d26568b7b00c90000b2": "Capgemini",
+                        "5a1c3d26568b7b00c90000b3": "Deloitte",
+                        "5a1c3d26568b7b00c90000b4": "Expero",
+                        "59790c42dde77e00580003f7": "Microsoft",
+                        "59d2b1e290bec100450000da": "Oracle",
+                        "5a1c3d26568b7b00c90000b5": "Perficient",
+                        "5a1c3d26568b7b00c90000b6": "Pivotal",
+                        "59790c42dde77e00580003f8": "West Monroe Partners",
+                        "59790c42dde77e00580003f9": "All Partners",
+                        "59b31460b82e9600c700032a": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "5a1c3d26568b7b00c90000b2",
+                            "display": "Capgemini",
+                            "value": "Capgemini"
+                        },
+                        {
+                            "id": "5a1c3d26568b7b00c90000b3",
+                            "display": "Deloitte",
+                            "value": "Deloitte"
+                        },
+                        {
+                            "id": "5a1c3d26568b7b00c90000b4",
+                            "display": "Expero",
+                            "value": "Expero"
+                        },
+                        {
+                            "id": "59790c42dde77e00580003f7",
+                            "display": "Microsoft",
+                            "value": "Microsoft"
+                        },
+                        {
+                            "id": "59d2b1e290bec100450000da",
+                            "display": "Oracle",
+                            "value": "Oracle"
+                        },
+                        {
+                            "id": "5a1c3d26568b7b00c90000b5",
+                            "display": "Perficient",
+                            "value": "Perficient"
+                        },
+                        {
+                            "id": "5a1c3d26568b7b00c90000b6",
+                            "display": "Pivotal",
+                            "value": "Pivotal"
+                        },
+                        {
+                            "id": "59790c42dde77e00580003f8",
+                            "display": "West Monroe Partners",
+                            "value": "West Monroe Partners"
+                        },
+                        {
+                            "id": "59790c42dde77e00580003f9",
+                            "display": "All Partners",
+                            "value": "All Partners"
+                        },
+                        {
+                            "id": "59b31460b82e9600c700032a",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014e3",
+                    "field_type": "multiselect",
+                    "display_label": "Audience",
+                    "name": "audience",
+                    "created_at": "2017-07-26T21:38:19Z",
+                    "select_values": [
+                        "Partners",
+                        "Public",
+                        "Internal-Only",
+                        "Customer Success",
+                        "SE",
+                        "SA",
+                        "BDR",
+                        "ESM",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "59790bcb914870008a0002af": "Partners",
+                        "59790bcb914870008a0002b0": "Public",
+                        "59b9531b8b56be00810003ee": "Internal-Only",
+                        "598e0dc6555603009e000098": "Customer Success",
+                        "598e0dc6555603009e000099": "SE",
+                        "598e0dc6555603009e00009a": "SA",
+                        "598e0dc6555603009e00009b": "BDR",
+                        "598e0dc6555603009e00009c": "ESM",
+                        "598e0dd3ea82f4001200009c": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790bcb914870008a0002af",
+                            "display": "Partners",
+                            "value": "Partners"
+                        },
+                        {
+                            "id": "59790bcb914870008a0002b0",
+                            "display": "Public",
+                            "value": "Public"
+                        },
+                        {
+                            "id": "59b9531b8b56be00810003ee",
+                            "display": "Internal-Only",
+                            "value": "Internal-Only"
+                        },
+                        {
+                            "id": "598e0dc6555603009e000098",
+                            "display": "Customer Success",
+                            "value": "Customer Success"
+                        },
+                        {
+                            "id": "598e0dc6555603009e000099",
+                            "display": "SE",
+                            "value": "SE"
+                        },
+                        {
+                            "id": "598e0dc6555603009e00009a",
+                            "display": "SA",
+                            "value": "SA"
+                        },
+                        {
+                            "id": "598e0dc6555603009e00009b",
+                            "display": "BDR",
+                            "value": "BDR"
+                        },
+                        {
+                            "id": "598e0dc6555603009e00009c",
+                            "display": "ESM",
+                            "value": "ESM"
+                        },
+                        {
+                            "id": "598e0dd3ea82f4001200009c",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014f0",
+                    "field_type": "multiselect",
+                    "display_label": "Content Purpose",
+                    "name": "content_purpose",
+                    "created_at": "2017-08-11T16:20:24Z",
+                    "select_values": [
+                        "Messaging",
+                        "Competitive",
+                        "Customer Reference",
+                        "Enablement",
+                        "RFI/RFP",
+                        "N/A",
+                        "Technical Enablement",
+                        "Sales Enablement"
+                    ],
+                    "select_value_ids": {
+                        "598dd94877ab12009e00046f": "Messaging",
+                        "598dd94877ab12009e000470": "Competitive",
+                        "599220ed7ea08f00c6000135": "Customer Reference",
+                        "598dd94877ab12009e000471": "Enablement",
+                        "5992262cb75aa100580002bf": "RFI/RFP",
+                        "598e0ddcea82f40062000093": "N/A",
+                        "59c4338da3b3990027000049": "Technical Enablement",
+                        "59c4338da3b399002700004a": "Sales Enablement"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "598dd94877ab12009e00046f",
+                            "display": "Messaging",
+                            "value": "Messaging"
+                        },
+                        {
+                            "id": "598dd94877ab12009e000470",
+                            "display": "Competitive",
+                            "value": "Competitive"
+                        },
+                        {
+                            "id": "599220ed7ea08f00c6000135",
+                            "display": "Customer Reference",
+                            "value": "Customer Reference"
+                        },
+                        {
+                            "id": "598dd94877ab12009e000471",
+                            "display": "Enablement",
+                            "value": "Enablement"
+                        },
+                        {
+                            "id": "5992262cb75aa100580002bf",
+                            "display": "RFI/RFP",
+                            "value": "RFI/RFP"
+                        },
+                        {
+                            "id": "598e0ddcea82f40062000093",
+                            "display": "N/A",
+                            "value": "N/A"
+                        },
+                        {
+                            "id": "59c4338da3b3990027000049",
+                            "display": "Technical Enablement",
+                            "value": "Technical Enablement"
+                        },
+                        {
+                            "id": "59c4338da3b399002700004a",
+                            "display": "Sales Enablement",
+                            "value": "Sales Enablement"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014ea",
+                    "field_type": "select",
+                    "display_label": "Review / Expiration Date",
+                    "name": "review_expiration_date",
+                    "created_at": "2017-07-26T21:49:11Z",
+                    "select_values": [
+                        "6 months (default)",
+                        "3 months",
+                        "9 months",
+                        "12 months"
+                    ],
+                    "select_value_ids": {
+                        "59790e5791487000260003a1": "6 months (default)",
+                        "59790e5791487000260003a0": "3 months",
+                        "59790e5791487000260003a2": "9 months",
+                        "59790e5791487000260003a3": "12 months"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "59790e5791487000260003a1",
+                            "display": "6 months (default)",
+                            "value": "6 months (default)"
+                        },
+                        {
+                            "id": "59790e5791487000260003a0",
+                            "display": "3 months",
+                            "value": "3 months"
+                        },
+                        {
+                            "id": "59790e5791487000260003a2",
+                            "display": "9 months",
+                            "value": "9 months"
+                        },
+                        {
+                            "id": "59790e5791487000260003a3",
+                            "display": "12 months",
+                            "value": "12 months"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": false,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": false,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5b89ab4e1fd63f00040014ef",
+                    "field_type": "multiselect",
+                    "display_label": "Region",
+                    "name": "region",
+                    "created_at": "2017-07-26T22:04:10Z",
+                    "select_values": [
+                        "Australia",
+                        "DACH",
+                        "EMEA",
+                        "France",
+                        "Japan",
+                        "North America (NA)",
+                        "UK",
+                        "N/A"
+                    ],
+                    "select_value_ids": {
+                        "597911da0ae39400440003cb": "Australia",
+                        "597911da0ae39400440003ca": "DACH",
+                        "5b3e969fcb29ce0013000010": "EMEA",
+                        "597911da0ae39400440003c9": "France",
+                        "597911da0ae39400440003cc": "Japan",
+                        "597911da0ae39400440003c7": "North America (NA)",
+                        "597911da0ae39400440003c8": "UK",
+                        "598e0e75ea82f400620000b0": "N/A"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "597911da0ae39400440003cb",
+                            "display": "Australia",
+                            "value": "Australia"
+                        },
+                        {
+                            "id": "597911da0ae39400440003ca",
+                            "display": "DACH",
+                            "value": "DACH"
+                        },
+                        {
+                            "id": "5b3e969fcb29ce0013000010",
+                            "display": "EMEA",
+                            "value": "EMEA"
+                        },
+                        {
+                            "id": "597911da0ae39400440003c9",
+                            "display": "France",
+                            "value": "France"
+                        },
+                        {
+                            "id": "597911da0ae39400440003cc",
+                            "display": "Japan",
+                            "value": "Japan"
+                        },
+                        {
+                            "id": "597911da0ae39400440003c7",
+                            "display": "North America (NA)",
+                            "value": "North America (NA)"
+                        },
+                        {
+                            "id": "597911da0ae39400440003c8",
+                            "display": "UK",
+                            "value": "UK"
+                        },
+                        {
+                            "id": "598e0e75ea82f400620000b0",
+                            "display": "N/A",
+                            "value": "N/A"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": true,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                },
+                {
+                    "id": "5bd34d8024776100d0000048",
+                    "field_type": "multiselect",
+                    "display_label": "SHOWPAD",
+                    "name": "showpad",
+                    "created_at": "2018-10-26T17:23:12Z",
+                    "select_values": [
+                        "Move to Showpad",
+                        "Do not move"
+                    ],
+                    "select_value_ids": {
+                        "5bd34d8024776100d0000046": "Move to Showpad",
+                        "5bd34d8024776100d0000047": "Do not move"
+                    },
+                    "formatted_select_values": [
+                        {
+                            "id": "5bd34d8024776100d0000046",
+                            "display": "Move to Showpad",
+                            "value": "Move to Showpad"
+                        },
+                        {
+                            "id": "5bd34d8024776100d0000047",
+                            "display": "Do not move",
+                            "value": "Do not move"
+                        }
+                    ],
+                    "options": {
+                        "editor_or_admin_only": false,
+                        "required_field": true,
+                        "publish_as_array": false,
+                        "publish_as_hash": false,
+                        "api_only": false
+                    },
+                    "newsroom_id": "5b89ab4e1fd63f0004001507",
+                    "visible_in_previews": false,
+                    "visible_in_insights": true,
+                    "instructions": null,
+                    "value": null
+                }
+            ],
+            "published_url": "",
+            "library_tracking_url": null,
+            "last_updated_by": {
+                "id": "5b845029930686004f000051",
+                "email": "brendan.rees@showpad.com",
+                "name": "Brendan Rees",
+                "avatar_feed_url": "https://ds8elntz9gv3a.cloudfront.net/assets/default-avatar.png",
+                "avatar_thumbnail_url": "https://ds8elntz9gv3a.cloudfront.net/assets/default-avatar.png",
+                "avatar_profile_large_url": "https://ds8elntz9gv3a.cloudfront.net/assets/default-avatar.png",
+                "avatar_profile_url": "https://ds8elntz9gv3a.cloudfront.net/assets/default-avatar.png",
+                "slug": "brendan-rees",
+                "created_at": "2018-08-27T19:25:29Z",
+                "updated_at": "2018-11-12T14:26:29Z",
+                "bio": null,
+                "short_bio": "",
+                "visitor": false,
+                "tz": "America/Chicago",
+                "follow_discussion_allowed": true,
+                "superadmin": false,
+                "tours_seen": [
+                    "saved_views_intro"
+                ],
+                "phone": null
+            },
+            "attachments": [
+            ],
+            "media_url": null
+        }
+    },
+    "instance": {
+        "id": "5b89ab4e1fd63f0004001507",
+        "name": "datastaxsandbox",
+        "subdomain": "datastaxsandbox",
+        "is_org": false,
+        "available_features": [
+            "api",
+            "sso",
+            "training_instance",
+            "studio",
+            "email_approval",
+            "integrations",
+            "tasks",
+            "advanced_settings",
+            "app_center_publish_permissions",
+            "member_activity",
+            "mongo_catalogs",
+            "open_visibility",
+            "request_revisions",
+            "system_user_instance_notifications",
+            "tabbed_content_type_settings",
+            "insights",
+            "custom_reporting",
+            "external_reach_analytics",
+            "repository",
+            "salesforce_relationships",
+            "canvas",
+            "canvas_adv_initiative_search",
+            "canvas_plans_manage_access",
+            "matrix_dates",
+            "canvas_timeline_view",
+            "timeline_zoom",
+            "submit",
+            "bundled_content",
+            null,
+            null
+        ],
+        "billing_name": "DataStax",
+        "organization_id": null,
+        "settings": {
+            "webhooks_url": "https://1ne6yqmj44.execute-api.us-east-2.amazonaws.com/Prod/process",
+            "webhooks_enabled": [
+                "content",
+                "content_type",
+                "persona",
+                "buying_stage",
+                "custom_field"
+            ],
+            "apps_proxy_enabled": false
+        }
+    }
+}
