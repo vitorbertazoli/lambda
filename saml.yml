@@ -1,0 +1,17 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+    ProcessChange:
+        Type: AWS::Serverless::Function
+        Properties:
+            Handler: handler.process
+            Runtime: nodejs8.10
+            Events:
+                process:
+                    Type: Api
+                    Properties:
+                        Path: /process
+                        Method: post
+    Bucket:
+        Type: AWS::S3::Bucket
