@@ -1,6 +1,7 @@
 'use strict';
 
-const processor = require('processors/create-processor');
+const createProcessor = require("./processors/create-processor");
+const updateProcessor = require("./processors/update-processor");
 
 module.exports.process = async (input, context) => {
 
@@ -16,15 +17,15 @@ module.exports.process = async (input, context) => {
         }
     }
 
-    processor.createProcessor(input);
-
     const body = JSON.parse(message);
     switch (body.operation) {
         case 'create':
             console.log('create requested');
+            createProcessor.process(input);
             break;
         case 'update':
             console.log('update requested');
+            updateProcessor.process(input);
             break;
     }
 
